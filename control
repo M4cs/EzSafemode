@@ -1,6 +1,6 @@
 Package: com.ezccmodules.control-center.ezsafemodemodule
 Name: EzSafemode
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: A Safemode toggle for your Control Center. Requires Silo
 Author: M4cs
