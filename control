@@ -5,5 +5,5 @@ Architecture: iphoneos-arm
 Description: A Safemode toggle for your Control Center. Requires Silo
 Author: M4cs
 Section: Control Center (Modules)
-Maintainer: M4cs
+Maintainer: M4cs <macs@m4cs.xyz>
 Depends: firmware (>= 11.0), com.ioscreatix.silo
